@@ -3,6 +3,10 @@
   <p align='center'>Um estudante de programação que adora de quebrar a cabeça pra resolver problemas, criar coisas, estudar muito e uma boa dose de café. 😎😎 <p/>
 </div>
 
+- 🤓 Estudando javascript/typescript
+- 🥸 Main React.js
+- 🥺 Open to work
+
 ---
 
 ![Samuel stats](https://github-readme-stats.vercel.app/api?username=samuelfagundes&show_icons=true&theme=dracula)
