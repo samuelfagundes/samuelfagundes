@@ -21,4 +21,7 @@
   <img alt="css3" src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' align='center' />
   <img alt="sass" src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' align='center' />
   <img alt="styled-components" src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' align='center' />
-</div>
+  <img alt="styled-components" src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' align='center' />
+</div></br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfagundes&theme=dracula)
