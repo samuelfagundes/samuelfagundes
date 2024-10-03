@@ -1,11 +1,9 @@
 <div>
   <h2 align='center'>Salve! Eu sou o Samuel 👋</h2>
-  <p align='center'>Um estudante de programação que adora de quebrar a cabeça pra resolver problemas, criar coisas, estudar muito e uma boa dose de café. 😎😎 <p/>
 </div>
 
 - 🤓 Estudando javascript/typescript
 - 🥸 Main React.js
-- 🥺 Open to work
 
 ---
 
